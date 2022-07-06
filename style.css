@@ -95,21 +95,38 @@ margin-bottom: 50px;
   margin-left: 40%;
   color: gray;
 }
-.line-space{
-  margin-left: 190px;
-  margin-right: 130px;
-  margin-bottom: 40px;
+.input-mail{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.pragraph1{
+.input-email{
+  width: 70%;
+  text-align: center;
+  height: 5vh;
+  border: none;
+  margin-left: 16%;
+  border-bottom: 1px solid rgba(0,128,0,459);
+  font-size: 20px;
+}
+.donate-button{
+  margin-top: 20px;
   margin-left: 45%;
-  background-color: orangered;
   width: 11%;
   /* padding-left: 25px; */
   text-align: center;
   border-radius: 10px;
-  padding: 2px;
+  /* padding: 10px 20px; */
 
 }
+.donate-button button{
+  padding: 10px 20px;
+  color: aliceblue;
+  background-color: orangered;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
 .fourth-section{
   margin-bottom:10px;
 
@@ -134,6 +151,7 @@ margin-bottom: 150px;
 }
 .flexible-container{
   display: flex;
+  margin-bottom: 150px;
 }
 .Exprience-item{
   box-shadow: 10px 10px 19px gray;
@@ -158,4 +176,16 @@ margin-bottom: 150px;
 }
 #last-section{
   background-color: rgb(237, 241, 213);
+}
+.last-container{
+  width: 50%;
+  padding-left: 5%;
+}
+.last-container h1{
+  font-size: 50px;
+}
+.last-container p{
+  color: gray;
+  font-size: 20px ;
+ 
 }
