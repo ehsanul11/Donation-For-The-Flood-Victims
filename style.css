@@ -89,3 +89,27 @@ margin-bottom: 50px;
 .third-section{
   margin-bottom: 50px;
 }
+.botam{
+  border: none;
+  margin-left: 40%;
+  color: gray;
+}
+.line-space{
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
+.pragraph1{
+  margin-left: 40%;
+  background-color: orangered;
+  width: 11%;
+  /* padding-left: 25px; */
+  text-align: center;
+  border-radius: 10px;
+  padding: 2px;
+
+}
+.fourth-section{
+  margin-bottom: 150px;
+
+}
