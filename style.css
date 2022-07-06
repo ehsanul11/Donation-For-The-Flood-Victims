@@ -136,7 +136,7 @@ margin-bottom: 150px;
 }
 .fifth-text{
   text-align: center;
-  margin: 20%;
+  margin: 200px;
   color: gray;
   font-size: 20px;
 }
@@ -195,4 +195,50 @@ margin-bottom: 150px;
   background-color: orangered;
   border: none;
   border-radius: 10px;
+}
+.text2{
+  margin-bottom: 60px;
+}
+.form-input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 300px;
+  background-color: rgb(240, 244, 201);
+  padding: 70px;
+  border-radius: 10px;
+}
+.form-input input{
+  font-size: 20px;
+  padding: 10px 5px ;
+  font-weight: 700;
+  background-color: rgb(246, 223, 192);
+  border: none;
+  border-radius: 10px;
+}
+
+.form-input button{
+font-size: 20px;
+padding: 10px 20px;
+background-color: rgb(245, 11, 11);
+border: none;
+border-radius: 10px;
+}
+.seven-section{
+  margin-bottom: 150px;
+}
+.text3{
+  font-family: 'The Nautigal', cursive;
+  font-weight: 900;
+   color: rgb(227, 12, 184);
+  font-size: 60px;
+  padding-top: 20px;
+}
+.footer-section{
+  text-align: center;
+  background-color: black;
+}
+.footer-section h2{
+  color: azure;
+ padding-bottom: 20px;
 }
